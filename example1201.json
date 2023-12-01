@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "高松市役所",
+        "description": "高松市役所は、日本の地方公共団体である高松市の組織が入る施設である。",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.04641,
+          34.34034
+        ]
+      }
+    }
+  ]
+}
